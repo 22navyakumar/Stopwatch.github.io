@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.container{
+  font-family: monospace;
+  font-size: 70px;
+  font-weight: 100;
+  margin-bottom: 0px;
+  color: white;
+}
+
+button{
+  width:100px;
+  height: 40px;
+  font-family: Monaco;
+  margin-top: 0px;
+
+}
+button:hover{
+  cursor: pointer;
+}
